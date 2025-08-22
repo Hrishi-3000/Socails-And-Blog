@@ -1,4 +1,4 @@
-# 🌐 Hrishikesh Shahane - Links & Blogs
+#  Hrishikesh Shahane - Links & Blogs
 
 A **personal links and blogs page** built with **HTML, TailwindCSS, and JavaScript** (converted from a React + Framer Motion prototype).  
 This project serves as a **central hub** for my social profiles, blogs, and portfolio.
